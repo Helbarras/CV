@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: helvetica,sans-serif,arial,verdana;
+}
+.principal{
+	width: 1200px;
+	margin: auto;
+	margin-top: 10px;
+	padding: 10px;
+
+}
+header{
+	width: 1200px;
+	background: white;
+	height: 150px;
+	border:10px solid #ccc;
+
+}
+#saudacao h1{
+	color: #bbb;
+	text-align: left;
+	line-height: 150px;
+	text-shadow: 1px 1px 2px black;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+#saudacao{
+	float: left;
+	margin-left: 20px;
+	width: 900px;
+	height: 150px;
+}
+#foto{
+	float: right;
+	width: 250px;
+}
+#foto img{
+	text-align: left;
+	border: 5px solid #fff;
+	width: 160px;
+	height: 150px;
+	border-radius: 90px;
+}
+.conteudo{
+	margin-top: 10px;
+	background: #fff;
+	padding: 20px;
+}
+.conteudo ol li{
+   margin-top: 10px;
+}
+section ul{
+	border-bottom: 10px solid #ccc;
+	width: 1200px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+table{
+	border: 10px solid #ccc;
+	width: 1200px;
+	height: 300px;
+	border-style: hidden;
+}
+tr,td,th{
+	padding: 10px;
+}
+th{
+	background: rgb(235,232,232);
+}
+
